@@ -17,7 +17,7 @@ _termux_
 
 > `pkg install git `
 
->     `git clone https://github.com/enggarsulistyo/gofood `                
+> &nbsp;&nbsp;&nbsp;&nbsp;`git clone https://github.com/enggarsulistyo/gofood `                
 
 > `cd gofood `
 
