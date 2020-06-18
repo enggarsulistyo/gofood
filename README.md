@@ -3,7 +3,7 @@ Redeem free vocer gojek indonesia
 
 
 ### Required
-* _termux_
+`termux `
 
 
 ### How to install
