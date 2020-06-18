@@ -3,22 +3,22 @@ Redeem free vocer gojek indonesia
 
 
 ### Required
-***termux***
+_termux_
 
 
 ### How to install
-`pkg update `
+> `pkg update `
 
-`pkg upgrade `
+> `pkg upgrade `
 
-`pkg install php `
+> `pkg install php `
 
-`pkg install curl `
+> `pkg install curl `
 
-`pkg install git `
+> `pkg install git `
 
-`git clone https://github.com/enggarsulistyo/gofood `
+> `git clone https://github.com/enggarsulistyo/gofood `
 
-`cd gofood `
+> `cd gofood `
 
-`php reedem.php `
+> `php reedem.php `
