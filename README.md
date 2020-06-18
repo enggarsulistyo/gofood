@@ -1,12 +1,10 @@
 ### Goofod
 Redeem free vocer gojek indonesia
 
-<br>
 
 ### Required
-_termux_
+* _termux_
 
-<br>
 
 ### How to install
 >     pkg update
