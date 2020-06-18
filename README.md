@@ -23,4 +23,4 @@ Redeem free vocer gojek indonesia
 
 *     cd gofood
 
-*     php reedem.php
+*     php redeem.php
